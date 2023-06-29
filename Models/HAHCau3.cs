@@ -12,5 +12,6 @@ namespace Baithi_HAH.Models
         public string Hoten { get; set;}
         [Display(Name ="Năm sinh sinh viên")]
         public string Namsinh { get; set;}
+
     }
 }

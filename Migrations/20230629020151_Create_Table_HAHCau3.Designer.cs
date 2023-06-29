@@ -32,6 +32,7 @@ namespace Baithi_HAH.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+
                     b.HasKey("Masinhvien");
 
                     b.ToTable("HAHCau3");
